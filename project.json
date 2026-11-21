@@ -1,0 +1,11 @@
+{
+  "title": "Marketing Attribution & ROI",
+  "domain": "marketing",
+  "primary_dimension": "channel",
+  "kpis": [
+    "ROAS",
+    "Customer Acquisition Cost",
+    "Conversion Rate",
+    "Incremental Revenue"
+  ]
+}
